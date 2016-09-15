@@ -1,0 +1,21 @@
+
+
+#schoolbus {
+  position: relative;
+}
+
+.children1 {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+.children2 {
+  position: absolute;
+  top: 100px;
+  left: 940px;
+}
+
+.childrenBus {
+  max-width: 100%;
+}
